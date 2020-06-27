@@ -1,4 +1,4 @@
-gimport requests
+import requests
 from bs4 import BeautifulSoup
 
 url = "https://movie.naver.com/movie/sdb/rank/rmovie.nhn"
